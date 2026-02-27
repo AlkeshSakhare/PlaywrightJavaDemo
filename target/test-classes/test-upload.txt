@@ -1,3 +1,0 @@
-This is a test file for upload testing.
-Created by Playwright automation test.
-Timestamp: 2026-02-05
