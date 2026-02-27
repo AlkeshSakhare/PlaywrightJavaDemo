@@ -27,7 +27,12 @@
       <artifactId>junit</artifactId>
       <groupId>junit</groupId>
       <version>4.13.2</version>
+    </dependency>
 
+    <dependency>
+      <artifactId>selenium-java</artifactId>
+      <groupId>org.seleniumhq.selenium</groupId>
+      <version>4.39.0</version>
     </dependency>
   </dependencies>
   <groupId>org.example</groupId>
