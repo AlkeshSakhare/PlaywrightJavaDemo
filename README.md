@@ -1,3 +1,3 @@
-remove target folder 
+remove target folder
 
-  git rm -r --cached target
+    git rm -r --cached target
